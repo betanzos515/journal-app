@@ -1,4 +1,4 @@
-#Proyecto donde ponemos en practica las clases de Redux.
+##Proyecto donde ponemos en practica las clases de Redux.
 
 Journal-app es una aplicacion la cual en su desarrollo hace uso de tecnologías como 
 son React, Redux, Firestor, Autenticacion, Proteccion de Rutas.
